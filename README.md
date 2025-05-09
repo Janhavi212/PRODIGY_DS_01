@@ -27,8 +27,6 @@ This task involved analyzing world population data using Python libraries such a
 - Visualizing trends using bar plots and line plots.
 - Best practices for EDA in Jupyter Notebooks.
 
-## 📷 Screenshots
-_Add relevant screenshots of your outputs and graphs here._
 
 ## 📎 Resources
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
