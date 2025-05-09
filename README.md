@@ -1,5 +1,5 @@
 # PRODIGY_DS_01
-# PRODIGY_[TrackCode]_[TaskNumber]
+
 
 ## 📌 Task Title
 Population Data Analysis Using Pandas and Seaborn
